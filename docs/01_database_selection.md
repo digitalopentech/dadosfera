@@ -174,7 +174,7 @@ O dataset da Olist anonimiza os nomes dos produtos, limitando análises semânti
 - Sugerir categorias similares para novos produtos
 - Calcular similaridade semântica entre produtos para recomendação
 
-**Adequação técnica:** os dados estão em formato JSON com campo `description` de texto livre, formato ideal para pipelines de extração de features com modelos de linguagem (OpenAI, Anthropic, ou modelos open-source via HuggingFace).
+**Adequação técnica:** os dados estão em formato JSON com campo `description` de texto livre, formato ideal para pipelines de extração de features com modelos de linguagem (OpenAI ou modelos open-source via HuggingFace).
 
 ### 3.3 Estrutura JSON de Exemplo
 

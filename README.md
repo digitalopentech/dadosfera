@@ -568,5 +568,3 @@ streamlit run app.py
 **Email:** Lnunesvalle@gmail.com
 
 ---
-
-*Case desenvolvido com auxilio de IA (Claude Code + AgentSpec) conforme incentivado pelas instrucoes do case.*
